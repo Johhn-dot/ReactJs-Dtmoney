@@ -1,5 +1,5 @@
 # dtmoney
-Primeiro projeto do bootcamp ignite da rocketseat
+Rocketseat's first ignite bootcamp project
 
 
 ## Tools
